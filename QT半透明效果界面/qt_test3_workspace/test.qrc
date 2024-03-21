@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/2edc6b461a1044b9253dc4acc120d49f.jpg</file>
+        <file>resource/4bc0a2c74b7811bbf28e40a356ab9111.jpg</file>
+        <file>resource/map4.png</file>
+        <file>resource/洛天依.jpg</file>
+        <file>resource/洛天依1.jpeg</file>
+    </qresource>
+</RCC>
